@@ -1,3 +1,22 @@
+A interactive and responsive web application for the whizzz-around the world.
+UI:
+![image](https://user-images.githubusercontent.com/79835147/180223399-0b8edda7-b434-4ba6-8dfa-8f7158ff1745.png)
+![image](https://user-images.githubusercontent.com/79835147/180223477-6e7edabd-d386-471f-9eca-e6e0d555c182.png)
+![image](https://user-images.githubusercontent.com/79835147/180223545-ed61cb81-1665-4e1d-86b6-0628dcdec059.png)
+![image](https://user-images.githubusercontent.com/79835147/180223635-9cf64686-7b00-4a8f-9698-963ff6bc67ad.png)
+![image](https://user-images.githubusercontent.com/79835147/180223705-e1f4b7ae-e3c8-44b3-9784-f3d4f756a585.png)
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
